@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nambwa04
+- 👋 Hi, I’m Beryl Nambwa.
 - 👀 I’m interested in Data Science, Artificial Intelligence and Cybersecurity.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me bnambwa@kabarak.ac.ke
 - 😄 Pronouns: she/her
 <!---
